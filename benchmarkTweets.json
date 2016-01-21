@@ -1,0 +1,26 @@
+[
+    {
+        "id":"1412414-3423",
+        "text":"hello tweet! #hello are you a and http://cool.to/2refugees http://cool.to/2jawn3 http://cool.to/2jawn3",
+        "lang":"en",
+        "created_at":"1972-05-20T17:33:18Z",
+        "twitter_hashtags":["hello"], 
+        "twitter_urls":["http://drool.to/2jawn3"]
+    },
+    {
+        "id":"aasdf26g-3423",
+        "text":"Obama comes to New York",
+        "lang":"en",
+        "created_at":"1972-05-20T17:33:18Z",
+        "twitter_hashtags":["GeekTalk", "AppleKeynote","IFA15"],
+        "twitter_urls":[ "http://cool.to/2jawn3"]
+    },
+    {
+        "id":"fkdcvrur-3423",
+        "text":"Barack Obama comes to San Francisco IBM",
+        "lang":"en",
+        "created_at":"1972-05-20T17:33:18Z",
+        "twitter_hashtags":["IpadPro ", "iPhone6s","ios9","ApplePencil","AppleKeynote"],
+        "twitter_urls":["http://fool.to/2jawn3"]
+    }
+]
